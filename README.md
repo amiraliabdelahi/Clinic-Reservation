@@ -1,3 +1,5 @@
+<img width="1366" height="596" alt="home" src="https://github.com/user-attachments/assets/644bda5d-5e00-4341-8a65-63d4029c3fdc" />
+
 ## Installation
 
 - First, run the development server:
@@ -24,7 +26,7 @@ It supports user authentication, doctor dashboards, appointment management, and 
 ## 🧩 Tech Stack
 
 ### Frontend (Next.js)
-- ⚛️ **Next.js 14+** (App Router)
+- ⚛️ **Next.js 16+** (App Router)
 - 🎨 **Tailwind CSS** for styling
 - 🧠 **React Hook Form** + **Zod** for form validation
 - 🕹️ **Lucide Icons** + **Shadcn/UI** for clean design
